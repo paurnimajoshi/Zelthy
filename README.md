@@ -14,7 +14,7 @@ python send_email.py
 
 2. Enter required inputs
 
-> Subject? <user inputs subject>
+> Subject? <\nuser inputs subject>
 > Body? > <user inputs a one line email body>
 > Recipient? <user inputs the email address of the recipient>
 > Enter gmail account id ? <user inputs the email address of the sender>
@@ -29,7 +29,7 @@ in the terminal. (Use https://dictionaryapi.dev/)
 Follow below steps:
 1. Run below command in terminal
 
-python -m dictionary_search.py
+python dictionary_search.py
 
 2. Enter required inputs
 > Word? <user inputs a word>
