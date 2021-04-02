@@ -14,7 +14,7 @@ python send_email.py
 
 2. Enter required inputs
 
-> Subject? <\nuser inputs subject>
+> Subject? <user inputs subject>
 > Body? > <user inputs a one line email body>
 > Recipient? <user inputs the email address of the recipient>
 > Enter gmail account id ? <user inputs the email address of the sender>
